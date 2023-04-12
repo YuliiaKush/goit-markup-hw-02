@@ -18,9 +18,9 @@
 
 body {
     color: var(--title-text-color);
-    Font family: Roboto, sans-serif;
-        Regular Font size: 16px;
-         Line height: 1,5;
+    font-family: Roboto, sans-serif;
+    Font size: 16px;
+    Line height: 1,5;
     
     background-color: var(--second-white-color);
 
