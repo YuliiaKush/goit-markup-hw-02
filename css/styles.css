@@ -34,7 +34,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.logo span {
+.span {
     color: var(--blue-color);
     Font family: Raleway, sans-serif;
     Font style: 800;
@@ -57,7 +57,7 @@ color: var(--primary-text-color);
 Text style: Roboto, sans-serif;
 Font style: 500;
 Font size: 16px;
-Line height: 1.5; 
+Line height: 1,5; 
 letter-spacing: 0.02em
 }
 
@@ -89,6 +89,16 @@ letter-spacing: 0.02em
     Line height: 40px; 
     Align: Center;
 }
+
+    .text{
+        color: var(--title-text-color)
+        Font family: Roboto, sans-serif;
+        Font size: 16px;
+        Line height: 1,5; 
+        Letter spacing: 0,02em;
+
+    }
+
     /* Features */
 .feature-list .title, .port-list {
     color:var(--primary-text-color);
@@ -102,12 +112,24 @@ letter-spacing: 0.02em
 /*Portfolio*/
 
 .portfolio-button .link:hover {
-    color: var(--second-white-color);
-    background-color: var(--background-button) ;
+    color: var(--blue-color);
+    Font family: Roboto, sans-serif;
+    Font style: 500;
+     Font size: 16px 
+     Line height: 1,5;
+    Letter spacing: 0,04em;
+
+    background-color: var(--white-footer-color);
 }
 .portfolio-button .link:focus {
-    color: var(--second-white-color);
-    background-color: var(--background-button);
+    color: var(--blue-color);
+        Font family: Roboto, sans-serif;
+        Font style: 500;
+        Font size: 16px Line height: 1, 5;
+        Letter spacing: 0, 04em;
+    
+        background-color: var(--white-footer-color);
+
 
 }
 
