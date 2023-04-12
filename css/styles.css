@@ -1,0 +1,117 @@
+:root {
+    --primary-text-color:#2E2F42;
+    --title-text-color:#434455;
+    --white-footer-color:#F4F4FD;
+    --blue-color:#4D5AE5;
+    --background-color:#E5E5E5;
+    --background-button: #404BBF;
+    --second-white-color:#FFFFFF;
+
+}
+/*колір основного текста - #2E2F42 */
+/* колір тексту #434455 */
+/* білий #F4F4FD */
+/* синій #4D5AE5 */
+/* backgraund #E5E5E5 */
+/* синій #404BBF */ 
+/* білий #FFFFFF */
+
+body {
+    color: var(--title-text-color);
+    Font family: Roboto, sans-serif;
+        Regular Font size: 16px;
+         Line height: 1,5;
+    
+    background-color: var(--background-color);
+
+}
+.logo{
+    color: var(--primary-text-color); 
+    Font family: Raleway, sans-serif;
+    Font style: 800;
+    Font size: 18px;
+    Line height: 1,17;
+}
+.logo span {
+    color: var(--blue-color);
+    Font family: Raleway, sans-serif;
+    Font style: 800;
+    Font size: 18px;
+    Line height: 1,17;
+}
+.list {
+    list-style: none;
+   
+}
+.link {
+    text-decoration: none;
+}
+
+
+/* Site-nav */
+.site-nav .link {
+color: var(--primary-text-color);
+Text style: Roboto, sans-serif;
+Font style: 500;
+Medium Font size: 16px;
+Line height: 1,5; 
+}
+
+
+/* Hero */
+.hero-title {
+    color: var(--second-white-color)
+    Font family: Roboto, sans-serif;
+    Font style: 700; 
+    Font size: 56px; 
+    Line height: 1,07;
+
+}
+.main-button {
+    color: var(--second-white-color);
+    Font family: Roboto, sans-serif;
+    Font style: 500;
+    Font size: 16px;
+     Line height: 1,5;
+    background-color:var(--blue-color);
+}
+
+/* Section */
+.section-title {
+    color: var(--primary-text-color);
+    Font family: Roboto, sans-serif; 
+    Font style: 700; 
+    Font size: 1,1;
+    Line height: 40px; 
+    Align: Center;
+}
+    /* Features */
+.feature-list .title, .port-list {
+    color:var(--primary-text-color);
+    Font family: Roboto, sans-serif; 
+    Font style: 500; 
+    Font size: 20px;
+    Line height: 1,2; 
+    Align: Left;
+
+}
+/*Portfolio*/
+
+.portfolio-button .link:hover {
+    color: var(--second-white-color);
+    background-color: var(--background-button) ;
+}
+.portfolio-button .link:focus {
+    color: var(--second-white-color);
+    background-color: var(--background-button);
+
+}
+
+/* Footer */
+.footer-end {
+    color: var(--white-footer-color);
+    Font family: Roboto, sans-serif;
+    Font size: 16px;
+    Line height: 1,5; 
+    
+}
