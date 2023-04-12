@@ -22,15 +22,17 @@ body {
         Regular Font size: 16px;
          Line height: 1,5;
     
-    background-color: var(--background-color);
+    background-color: var(--second-white-color);
 
 }
-.logo{
-    color: var(--primary-text-color); 
+.logo-text {
+    color: var(--blue-color); 
     Font family: Raleway, sans-serif;
     Font style: 800;
     Font size: 18px;
     Line height: 1,17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo span {
     color: var(--blue-color);
@@ -45,6 +47,7 @@ body {
 }
 .link {
     text-decoration: none;
+    font-style: normal;
 }
 
 
@@ -53,8 +56,9 @@ body {
 color: var(--primary-text-color);
 Text style: Roboto, sans-serif;
 Font style: 500;
-Medium Font size: 16px;
-Line height: 1,5; 
+Font size: 16px;
+Line height: 1.5; 
+letter-spacing: 0.02em
 }
 
 
