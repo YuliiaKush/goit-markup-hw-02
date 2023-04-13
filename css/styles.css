@@ -52,6 +52,7 @@ body {
     font-style: normal;
     list-style: none;
 }
+
 .list {
     color: var(--title-text-color); 
     font family: "Roboto", sans-serif;
@@ -78,6 +79,12 @@ font style: 500;
 font size: 16px;
 line height: 1,5; 
 letter-spacing: 0.02em;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+    color: var(--beckground-button);
+
 }
 
 
@@ -119,6 +126,7 @@ letter-spacing: 0.02em;
 
     }
     .title-text {
+        color: var(--primary-text-color)
          font family: "Roboto", sans-serif;
          font style: 500; 
          font size: 20px 
