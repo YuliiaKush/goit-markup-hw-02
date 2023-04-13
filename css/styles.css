@@ -71,6 +71,13 @@ body {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02;
+        font-style: normal;
+
+}
+
+.adress-style:hover,
+.adress-style:focus{
+    background-color: var(--background-button);
 }
 
 /* Site-nav */
@@ -83,8 +90,8 @@ line-height: 1,5;
 letter-spacing: 0.02em;
 }
 
-.site-nav .link:hover:hover,
-.site-nav .link:focus:focus {
+.link:hover:hover,
+.link:focus:focus {
     color: var(--beckground-button);
 
 }
