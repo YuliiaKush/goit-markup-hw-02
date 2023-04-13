@@ -21,6 +21,8 @@ body {
     font-family: "Roboto", sans-serif;
     font size: 16px;
     line height: 1.5;
+    letter spacing: 0.02em;
+    font-style: normal;
     
     background-color: var(--second-white-color);
 
@@ -56,10 +58,17 @@ body {
     font-weight: 500;
     font size: 16px;
     line-height: 1.5;
-    letter spacing: 0.02em;
-    font-style: normal;
+    Letter spacing: 0.02;
+    
 }
-
+.adress-style{
+    color: var(--title-text-color);
+        font family: "Roboto", sans-serif;
+        font-weight: 500;
+        font size: 16px;
+        line-height: 1.5;
+        Letter spacing: 0.02;
+}
 
 /* Site-nav */
 .site-nav .link {
@@ -68,7 +77,7 @@ text style: "Roboto", sans-serif;
 font style: 500;
 font size: 16px;
 line height: 1,5; 
-letter-spacing: 0.02em
+letter-spacing: 0.02em;
 }
 
 
@@ -125,7 +134,6 @@ letter-spacing: 0.02em
     font style: 500; 
     font size: 20px;
     line height: 1.2; 
-    align: Left;
 
 }
 /*Portfolio*/
