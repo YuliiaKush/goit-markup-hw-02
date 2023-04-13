@@ -18,7 +18,7 @@
 
 body {
     color: var(--title-text-color);
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     font size: 16px;
     line height: 1.5;
     
@@ -36,7 +36,7 @@ body {
 }
 .logo-text {
     color: var(--primary-text-color);
-    font family: Raleway, sans-serif;
+    font family: "Raleway", sans-serif;
     font style: 800;
     font size: 18px;
     line height: 1.17;
@@ -52,7 +52,7 @@ body {
 }
 .list {
     color: var(--title-text-color); 
-    font family: Roboto, sans-serif;
+    font family: "Roboto", sans-serif;
     font-weight: 500;
     font size: 16px;
     line-height: 1.5;
@@ -64,7 +64,7 @@ body {
 /* Site-nav */
 .site-nav .link {
 color: var(--primary-text-color);
-text style: Roboto, sans-serif;
+text style: "Roboto", sans-serif;
 font style: 500;
 font size: 16px;
 line height: 1,5; 
@@ -76,7 +76,7 @@ letter-spacing: 0.02em
 /* Hero */
 .hero-title {
     color: var(--second-white-color)
-    font family: Roboto, sans-serif;
+    font family: "Roboto", sans-serif;
     font style: 700; 
     font size: 56px; 
     line height: 1.07;
@@ -95,7 +95,7 @@ letter-spacing: 0.02em
 /* Section */
 .section-title {
     color: var(--primary-text-color);
-    font family: Roboto, sans-serif; 
+    font family: "Roboto", sans-serif; 
     font style: 700; 
     font size: 1.1;
     line height: 40px; 
@@ -103,14 +103,14 @@ letter-spacing: 0.02em
 
     .text{
         color: var(--title-text-color);
-        font family: Roboto, sans-serif;
+        font family: "Roboto", sans-serif;
         font size: 16px;
         line height: 1.5; 
         letter spacing: 0.02em;
 
     }
     .title-text {
-         font family: Roboto, sans-serif;
+         font family: "Roboto", sans-serif;
          font style: 500; 
          font size: 20px 
          line height: 1.2; 
@@ -121,7 +121,7 @@ letter-spacing: 0.02em
     /* Features */
 .feature-list {
     color:var(--primary-text-color);
-    font family: Roboto, sans-serif; 
+    font family: "Roboto", sans-serif; 
     font style: 500; 
     font size: 20px;
     line height: 1.2; 
@@ -132,7 +132,7 @@ letter-spacing: 0.02em
 
 .list .filter-btn:hover {
     color: var(--white-footer-color);
-    font family: Roboto, sans-serif;
+    font family: "Roboto", sans-serif;
     font style: 500;
      font size: 16px 
      line height: 1.5;
@@ -142,7 +142,7 @@ letter-spacing: 0.02em
 }
 .list .filter-btn:focus {
     color: var(--blue-color);
-        font family: Roboto, sans-serif;
+        font family: "Roboto", sans-serif;
         font style: 500;
         font size: 16px;
         line height: 1.5;
@@ -156,7 +156,7 @@ letter-spacing: 0.02em
 /* Footer */
 .footer-text {
     color: var(--white-footer-color);
-    font family: Roboto, sans-serif;
+    font family: "Roboto", sans-serif;
     font size: 16px;
     line height: 1.5; 
 
