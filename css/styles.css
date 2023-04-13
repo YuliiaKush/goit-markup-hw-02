@@ -20,26 +20,26 @@ body {
     color: var(--title-text-color);
     font-family: Roboto, sans-serif;
     Font size: 16px;
-    Line height: 1,5;
+    Line height: 1.5;
     
     background-color: var(--second-white-color);
 
 }
-.logo-text {
+.link-logo {
     color: var(--blue-color); 
     Font family: Raleway, sans-serif;
     Font style: 800;
     Font size: 18px;
-    Line height: 1,17;
+    Line height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.span {
+.logo-text {
     color: var(--blue-color);
     Font family: Raleway, sans-serif;
     Font style: 800;
     Font size: 18px;
-    Line height: 1,17;
+    Line height: 1.17;
 }
 .list {
     list-style: none;
@@ -68,7 +68,7 @@ letter-spacing: 0.02em
     Font family: Roboto, sans-serif;
     Font style: 700; 
     Font size: 56px; 
-    Line height: 1,07;
+    Line height: 1.07;
 
 }
 .main-button {
@@ -76,7 +76,7 @@ letter-spacing: 0.02em
     Font family: Roboto, sans-serif;
     Font style: 500;
     Font size: 16px;
-     Line height: 1,5;
+     Line height: 1.5;
     background-color:var(--blue-color);
 }
 
@@ -85,7 +85,7 @@ letter-spacing: 0.02em
     color: var(--primary-text-color);
     Font family: Roboto, sans-serif; 
     Font style: 700; 
-    Font size: 1,1;
+    Font size: 1.1;
     Line height: 40px; 
     Align: Center;
 }
@@ -94,8 +94,8 @@ letter-spacing: 0.02em
         color: var(--title-text-color)
         Font family: Roboto, sans-serif;
         Font size: 16px;
-        Line height: 1,5; 
-        Letter spacing: 0,02em;
+        Line height: 1.5; 
+        Letter spacing: 0.02em;
 
     }
 
@@ -105,7 +105,7 @@ letter-spacing: 0.02em
     Font family: Roboto, sans-serif; 
     Font style: 500; 
     Font size: 20px;
-    Line height: 1,2; 
+    Line height: 1.2; 
     Align: Left;
 
 }
@@ -116,8 +116,8 @@ letter-spacing: 0.02em
     Font family: Roboto, sans-serif;
     Font style: 500;
      Font size: 16px 
-     Line height: 1,5;
-    Letter spacing: 0,04em;
+     Line height: 1.5;
+    Letter spacing: 0.04em;
 
     background-color: var(--white-footer-color);
 }
@@ -125,8 +125,9 @@ letter-spacing: 0.02em
     color: var(--blue-color);
         Font family: Roboto, sans-serif;
         Font style: 500;
-        Font size: 16px Line height: 1, 5;
-        Letter spacing: 0, 04em;
+        Font size: 16px;
+        Line height: 1.5;
+        Letter spacing: 0.04em;
     
         background-color: var(--white-footer-color);
 
@@ -138,6 +139,6 @@ letter-spacing: 0.02em
     color: var(--white-footer-color);
     Font family: Roboto, sans-serif;
     Font size: 16px;
-    Line height: 1,5; 
+    Line height: 1.5; 
     
 }
