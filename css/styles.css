@@ -93,21 +93,28 @@ letter-spacing: 0.02em;
 
 /* Hero */
 .hero-title {
-    color: var(--second-white-color)
+    color: var(--second-white-color);
     font-family: "Roboto", sans-serif;
     font-style: 700; 
     font-size: 56px; 
     line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: cente;
+    background-color:var(--primary-text-color);
 
 }
 .main-button {
     color: var(--second-white-color);
     font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 16px
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     background-color:var(--blue-color);
+}
+.main-button:hover,
+.main-button:focus{
+    background-color: var(--background-button);
 }
 
 /* Section */
@@ -128,7 +135,7 @@ letter-spacing: 0.02em;
 
     }
     .title-text {
-        color: var(--primary-text-color)
+        color: var(--primary-text-color);
          font-family: "Roboto", sans-serif;
         font-weight: 500;
          font-size: 20px;
