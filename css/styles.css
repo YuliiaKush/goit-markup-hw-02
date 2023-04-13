@@ -63,8 +63,8 @@ body {
     letter-spacing: 0.02;
     
 }
-*/
-.adress-style{
+
+.adress-item {
     color: var(--title-text-color);
         font-family: "Roboto", sans-serif;
         font-weight: 500;
@@ -75,8 +75,8 @@ body {
 
 }
 
-.adress-style:hover,
-.adress-style:focus{
+.adress-item:hover,
+.adress-item:focus{
     background-color: var(--background-button);
 }
 
