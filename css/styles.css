@@ -182,4 +182,6 @@ color: var(--white-footer-color);
    font style: 800;
    font size: 18px;
    line height: 1.17;
+   
+background-color: var(--primary-text-color);
    }
