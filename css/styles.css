@@ -130,7 +130,7 @@ letter-spacing: 0.02em
 }
 /*Portfolio*/
 
-.filter-btn:hover {
+.filter-btn link:hover {
     color: var(--white-footer-color);
     font family: Roboto, sans-serif;
     font style: 500;
@@ -140,7 +140,7 @@ letter-spacing: 0.02em
 
     background-color: var(--blue-color);
 }
-.filter-btn:focus {
+.filter-btn link:focus {
     color: var(--blue-color);
         font family: Roboto, sans-serif;
         font style: 500;
