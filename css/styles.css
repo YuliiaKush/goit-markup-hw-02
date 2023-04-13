@@ -19,9 +19,9 @@
 body {
     color: var(--title-text-color);
     font-family: "Roboto", sans-serif;
-    font size: 16px;
-    line height: 1.5;
-    letter spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     font-style: normal;
     
     background-color: var(--second-white-color);
@@ -38,10 +38,10 @@ body {
 }
 .logo-text {
     color: var(--primary-text-color);
-    font family: "Raleway", sans-serif;
-    font style: 800;
-    font size: 18px;
-    line height: 1.17;
+    font-family: "Raleway", sans-serif;
+    font-style: 800;
+    font-size: 18px;
+    line-height: 1.17;
 }
 .list {
     list-style: none;
@@ -55,30 +55,30 @@ body {
 
 .list {
     color: var(--title-text-color); 
-    font family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font size: 16px;
+    font-size: 16px;
     line-height: 1.5;
-    Letter spacing: 0.02;
+    letter-spacing: 0.02;
     
 }
 */
 .adress-style{
     color: var(--title-text-color);
-        font family: "Roboto", sans-serif;
+        font-family: "Roboto", sans-serif;
         font-weight: 500;
-        font size: 16px;
+        font-size: 16px;
         line-height: 1.5;
-        Letter spacing: 0.02;
+        letter-spacing: 0.02;
 }
 
 /* Site-nav */
-.site-nav. link{
+.site-nav .link{
 color: var(--primary-text-color);
-text style: "Roboto", sans-serif;
-font style: normal;
-font size: 16px;
-line height: 1,5; 
+font-family: "Roboto", sans-serif;
+font-style: normal;
+font-size: 16px;
+line-height: 1,5; 
 letter-spacing: 0.02em;
 }
 
@@ -93,10 +93,10 @@ letter-spacing: 0.02em;
 /* Hero */
 .hero-title {
     color: var(--second-white-color)
-    font family: "Roboto", sans-serif;
-    font style: 700; 
-    font size: 56px; 
-    line height: 1.07;
+    font-family: "Roboto", sans-serif;
+    font-style: 700; 
+    font-size: 56px; 
+    line-height: 1.07;
 
 }
 .main-button {
@@ -112,26 +112,26 @@ letter-spacing: 0.02em;
 /* Section */
 .section-title {
     color: var(--primary-text-color);
-    font family: "Roboto", sans-serif; 
-    font style: 700; 
-    font size: 1.1;
-    line height: 40px; 
+    font-family: "Roboto", sans-serif; 
+    font-style: 700; 
+    font-size: 1.1;
+    line-height: 40px; 
 }
 
     .text{
         color: var(--title-text-color);
-        font family: "Roboto", sans-serif;
-        font size: 16px;
-        line height: 1.5; 
+        font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        line-height: 1.5; 
         letter-spacing: 0.02em;
 
     }
     .title-text {
         color: var(--primary-text-color)
-         font family: "Roboto", sans-serif;
-         font style: 500; 
-         font size: 20px 
-         line height: 1.2; 
+         font-family: "Roboto", sans-serif;
+         font-style: 500; 
+         font-size: 20px 
+         line-height: 1.2; 
          letter-spacing: 0.02em;
 
     }
@@ -139,10 +139,10 @@ letter-spacing: 0.02em;
     /* Features */
 .feature-list {
     color:var(--primary-text-color);
-    font family: "Roboto", sans-serif; 
-    font style: 500; 
-    font size: 20px;
-    line height: 1.2; 
+    font-family: "Roboto", sans-serif; 
+    font-style: 500; 
+    font-size: 20px;
+    line-height: 1.2; 
 
 }
 /*Portfolio*/
@@ -151,10 +151,10 @@ letter-spacing: 0.02em;
     color: var(--blue-color);
     font-family: "Roboto", sans-serif;
     font-style: normal;
-    font style: 500;
-     font size: 16px;
-     line height: 1.5;
-    letter spacing: 0.04em;
+    font-style: 500;
+     font-size: 16px;
+     line-height: 1.5;
+    letter-spacing: 0.04em;
 
     background-color: var(--white-footer-color);
 }
@@ -169,20 +169,19 @@ letter-spacing: 0.02em;
 /* Footer */
 .footer-text {
     color: var(--white-footer-color);
-    font family: "Roboto", sans-serif;
-    font size: 16px;
-    line height: 1.5; 
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.5; 
     background-color: var(--primary-text-color);
     
 }
 .logo-text-footer{
   
 color: var(--white-footer-color);
-   font family: "Raleway",
-   sans-serif;
-   font style: 800;
-   font size: 18px;
-   line height: 1.17;
+   font-family: "Raleway", sans-serif;
+   font-style: 800;
+   font-size: 18px;
+   line-height: 1.17;
 
 background-color: var(--primary-text-color);
    }
