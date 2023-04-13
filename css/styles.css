@@ -35,7 +35,7 @@ body {
     text-transform: uppercase;
 }
 .logo-text {
-    color: var(--blue-color);
+    color: var(--primary-text-color);
     font family: Raleway, sans-serif;
     font style: 800;
     font size: 18px;
@@ -48,6 +48,14 @@ body {
 .link {
     text-decoration: none;
     font-style: normal;
+    list-style: none;
+}
+.list {
+    color: var(--title-text-color); 
+    font family: Roboto, sans-serif;
+    font size: 16px;
+    line height: 1.5;
+    letter spacing: 0.02em;
 }
 
 
@@ -60,6 +68,7 @@ font size: 16px;
 line height: 1,5; 
 letter-spacing: 0.02em
 }
+
 
 
 /* Hero */
@@ -91,7 +100,7 @@ letter-spacing: 0.02em
 }
 
     .text{
-        color: var(--title-text-color)
+        color: var(--title-text-color);
         font family: Roboto, sans-serif;
         font size: 16px;
         line height: 1.5; 
@@ -112,14 +121,14 @@ letter-spacing: 0.02em
 /*Portfolio*/
 
 .portfolio-button .link:hover {
-    color: var(--blue-color);
+    color: var(--white-footer-color);
     font family: Roboto, sans-serif;
     font style: 500;
      font size: 16px 
      line height: 1.5;
     letter spacing: 0.04em;
 
-    background-color: var(--white-footer-color);
+    background-color: var(--blue-color);
 }
 .portfolio-button .link:focus {
     color: var(--blue-color);
@@ -135,10 +144,12 @@ letter-spacing: 0.02em
 }
 
 /* Footer */
-.footer-end {
+.footer-text {
     color: var(--white-footer-color);
     font family: Roboto, sans-serif;
     font size: 16px;
     line height: 1.5; 
+
+    background-color: var(--primary-text-color);
     
 }
