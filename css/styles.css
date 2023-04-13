@@ -130,26 +130,23 @@ letter-spacing: 0.02em
 }
 /*Portfolio*/
 
-.list .filter-btn:hover {
-    color: var(--white-footer-color);
-    font family: "Roboto", sans-serif;
+.filter-btn {
+    color: var(--blue-color);
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
     font style: 500;
-     font size: 16px 
+     font size: 16px;
      line height: 1.5;
     letter spacing: 0.04em;
 
-    background-color: var(--blue-color);
+    background-color: var(--white-footer-color);
 }
-.list .filter-btn:focus {
-    color: var(--blue-color);
-        font family: "Roboto", sans-serif;
-        font style: 500;
-        font size: 16px;
-        line height: 1.5;
-       letter spacing: 0.04em;
-    
-        background-color: var(--white-footer-color);
+.filter-btn:hover,
+.filter-btn:focus {
+    color: var(--second-white-color);
+    background-color: var(--background-button)
 
+}
 
 }
 
