@@ -148,7 +148,7 @@ letter-spacing: 0.02em;
 }
     
 
-    .text{
+    .text, .text-describe{
         color: var(--title-text-color);
         font-family: "Roboto", sans-serif;
         font-size: 16px;
