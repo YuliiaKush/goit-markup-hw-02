@@ -138,7 +138,6 @@ letter-spacing: 0.02em;
     font-size: 36px;
     line-height: 1.11;
     text-transform: capitalize;
-    background-color: var(--white-footer-color);
 }
 .section-team{
     background-color: var(--white-footer-color);
