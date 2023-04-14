@@ -90,10 +90,9 @@ line-height: 1,5;
 letter-spacing: 0.02em;
 }
 
-.link:hover:hover,
-.link:focus:focus {
-    color: var(--beckground-button);
-
+.header-text:hover,
+.header-text:focus{
+    color: var(--background-button);
 }
 
 
