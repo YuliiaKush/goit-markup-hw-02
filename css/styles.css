@@ -77,7 +77,7 @@ body {
 
 .adress-item:hover,
 .adress-item:focus{
-    background-color: var(--background-button);
+    color: var(--background-button);
 }
 
 /* Site-nav */
