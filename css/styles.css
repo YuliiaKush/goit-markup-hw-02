@@ -48,7 +48,7 @@ body {
     list-style: none;
    
 }
-.link {
+.link .adress-item {
     text-decoration: none;
     font-style: normal;
     list-style: none;
@@ -129,11 +129,10 @@ letter-spacing: 0.02em;
     color: var(--primary-text-color);
     font-family: "Roboto", sans-serif; 
     font-style: 700; 
-    line-height: 1.11;
-    line-height: 40px; 
     text-align: center;
     letter-spacing: 0.02em;
     font-size: 36px;
+    line-height: 1.11;
     text-transform: capitalize;
 
     background-color: var(--second-white-color) ;
