@@ -157,16 +157,6 @@ letter-spacing: 0.02em;
          letter-spacing: 0.02em;
 
     }
-
-    /* Features */
-.feature-list {
-    color:var(--primary-text-color);
-    font-family: "Roboto", sans-serif; 
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2; 
-
-}
 /*Portfolio*/
 
 .list .filter-btn {
