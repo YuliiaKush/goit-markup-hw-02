@@ -140,9 +140,12 @@ letter-spacing: 0.02em;
     text-transform: capitalize;
     background-color: var(--white-footer-color);
 }
-.section-team:{
-    background-color:var(--white-footer-color);
+.workers-group{
+    background-color: var(--second-white-color);
+
 }
+    
+
     .text{
         color: var(--title-text-color);
         font-family: "Roboto", sans-serif;
