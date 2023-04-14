@@ -139,11 +139,11 @@ letter-spacing: 0.02em;
     line-height: 1.11;
     text-transform: capitalize;
 
-    background-color: var(--second-white-color) ;
+    background-color: var(--second-white-color);
 
 }
 .section-team:{
-    background-color:var(--white-footer-color) ;
+    background-color:var(--white-footer-color);
 }
     .text{
         color: var(--title-text-color);
