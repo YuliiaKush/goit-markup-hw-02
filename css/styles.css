@@ -140,7 +140,10 @@ letter-spacing: 0.02em;
     text-transform: capitalize;
     background-color: var(--white-footer-color);
 }
-.workers-group{
+.section-team{
+    background-color: var(--white-footer-color);
+}
+.title-text, .title{
     background-color: var(--second-white-color);
 
 }
