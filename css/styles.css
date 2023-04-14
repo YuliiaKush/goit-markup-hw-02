@@ -142,13 +142,13 @@ letter-spacing: 0.02em;
 .section-team{
     background-color: var(--white-footer-color);
 }
-.title-text, .title {
+.title-text, .title{
     background-color: var(--second-white-color);
 
 }
     
 
-    .text {
+    .text{
         color: var(--title-text-color);
         font-family: "Roboto", sans-serif;
         font-size: 16px;
