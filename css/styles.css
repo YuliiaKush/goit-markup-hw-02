@@ -21,9 +21,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    font-weight: 500;
     letter-spacing: 0.02em;
-    font-style: normal;
     
     background-color: var(--second-white-color);
 
@@ -67,10 +65,10 @@ body {
 .adress-item {
     color: var(--title-text-color);
         font-family: "Roboto", sans-serif;
-        font-weight: 500;
+        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
         font-style: normal;
 
 }
@@ -86,8 +84,9 @@ color: var(--primary-text-color);
 font-family: "Roboto", sans-serif;
 font-style: normal;
 font-size: 16px;
-line-height: 1,5; 
+line-height: 1.5; 
 letter-spacing: 0.02em;
+font-weight: 500;
 }
 
 .header-text:hover,
